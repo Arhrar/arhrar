@@ -21,12 +21,12 @@
 
 ###
 
-<div align="left">
-  <a href="https://youtube.com/@newarh?si=rDTfmzNJXebSNJlg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="33" alt="youtube logo"  />
+<div align="center">
+  <a href="https://youtube.com/@newarh">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://t.me/NewARH" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="33" alt="telegram logo"  />
+  <a href="https://t.me/NewARH">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
 
