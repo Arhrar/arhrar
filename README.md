@@ -3,11 +3,13 @@
 
 <h1 align="left">Not a swordsman, but at least not an NPC from the starting town.</h1>
 
-###
-
-<img align="left" height="150" src="https://media1.tenor.com/m/K3s0l9Zu9y8AAAAC/konata-izumi-lacky-star.gif"  />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=22F7E4&repeat=false&random=true&width=1000&height=30&lines=While+everyone+desires+to+craft+their+own+world%2C+success+is+not+guaranteed+for+all.)](https://git.io/typing-svg)
 
 ###
+
+<img align="left" height="150" src="https://c.tenor.com/WG3vvcvFQvUAAAAC/tenor.gif"  />
+
+
 
 <div align="le">
   <img width="2" />
@@ -30,4 +32,4 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/arhrar/arhrar/output/snake.svg" alt="Snake animation" />
-###
+
